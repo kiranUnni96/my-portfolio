@@ -1,0 +1,15 @@
+{
+    "data": {
+        "user": {
+            "name": "Kiran Choorakattukara Unnikrishnan",
+            "bio": "Software Engineer | Full Stack Development | React | Javascript | Java | SpringBoot | PostgreSQL | Docker | GraphQL \r\n",
+            "isHireable": true,
+            "avatarUrl": "https://github.com/kiranUnni96.png",
+            "location": "United States",
+            "pinnedItems": {
+                "totalCount": 0,
+                "edges": []
+            }
+        }
+    }
+}
