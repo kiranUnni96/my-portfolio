@@ -3,7 +3,6 @@ import NewYorkLife from "./assets/images/NewYorkLife.png";
 import NEU from "./assets/images/NEU.png"
 import CrowdDoing from "./assets/images/CrowdDoing.jpeg";
 import Oracle from "./assets/images/Oracle.jpg";
-import portfolio from "./assets/images/portfolio.png";
 import RagiMedia from "./assets/images/Ragi_Media.jpeg"
 
 
@@ -114,13 +113,7 @@ const openSource = {
 const bigProjects = {
   title: "Projects",
   subtitle: "THESE ARE SOME OF MY PROJECT'S, BUILD DURING MY CAREER",
-  projects: [
-    {
-      image: portfolio,
-      projectName: "My Portfolio Websites ",
-      projectDesc: "MY Portfolio Websites Build using React Js",
-      footerLink: []
-    },
+  projects: [   
   ],
   display: false 
 };
